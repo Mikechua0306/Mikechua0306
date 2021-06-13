@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to develop a webpage
 - 🌱 I’m currently learning how to set up the microsoft 365 learning pathway mannually.
 - 💞️ I’m looking to collaborate on nothing at the moment .
-- 📫 How to reach me pchu@pasona.my
+- 📫 How to reach me pchua@pasona.my
 
 <!---
 Mikechua0306/Mikechua0306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
